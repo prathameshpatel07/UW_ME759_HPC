@@ -1,0 +1,4 @@
+task2.cpp: In function ‘int main(int, char**)’:
+task2.cpp:11:5: warning: unused variable ‘t’ [-Wunused-variable]
+ int t = atoi(argv[2]);
+     ^
